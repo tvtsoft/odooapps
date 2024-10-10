@@ -1,5 +1,5 @@
 {
-    'name': 'Odoo 18 Accounting',
+    'name': 'Odoo 18 Community Accounting',
     'version': '1.0.1',
     'category': 'Accounting',
     'summary': 'Accounting Reports, Asset Management and Budget, Recurring Payments, '
