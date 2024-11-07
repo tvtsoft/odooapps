@@ -1,6 +1,6 @@
 {
-    'name': 'Odoo 18 Community Accounting',
-    'version': '1.0.1',
+    'name': 'Odoo 18 Accounting',
+    'version': '1.0.2',
     'category': 'Accounting',
     'summary': 'Accounting Reports, Asset Management and Budget, Recurring Payments, '
                'Lock Dates, Fiscal Year, Accounting Dashboard, Financial Reports, '
@@ -9,7 +9,7 @@
                    'Budget, Financial Reports, Recurring Payments, '
                    'Bank Statement Import, Customer Follow Up Management,'
                    'Account Lock Date, Accounting Dashboard',
-    'live_test_url': 'https://www.walnutit.com',
+    'live_test_url': 'https://www.youtube.com/c/OdooMates',
     'sequence': '1',
     'author': 'Odoo Mates, Odoo SA',
     'maintainer': 'Odoo Mates',
@@ -37,6 +37,6 @@
         'views/account_journal.xml',
     ],
     'application': True,
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/banner_new.gif'],
 }
 
