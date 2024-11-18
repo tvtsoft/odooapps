@@ -1,6 +1,6 @@
 {
-    'name': 'Odoo 18 Accounting',
-    'version': '1.0.2',
+    'name': 'Odoo 18 Accounting Community',
+    'version': '1.0.3',
     'category': 'Accounting',
     'summary': 'Accounting Reports, Asset Management and Budget, Recurring Payments, '
                'Lock Dates, Fiscal Year, Accounting Dashboard, Financial Reports, '
@@ -11,8 +11,10 @@
                    'Account Lock Date, Accounting Dashboard',
     'live_test_url': 'https://www.youtube.com/c/OdooMates',
     'sequence': '1',
-    'author': 'Odoo Mates, Odoo SA',
-    'maintainer': 'Odoo Mates',
+    'sequence': '1',
+    'website': 'https://www.walnutit.com',
+    'author': 'Odoo Mates, Walnut Software Solutions, Odoo SA',
+    'maintainer': 'Odoo Mates, Walnut Software Solutions',
     'license': 'LGPL-3',
     'support': 'odoomates@gmail.com',
     'depends': [
