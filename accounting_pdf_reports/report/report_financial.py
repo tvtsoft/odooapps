@@ -138,7 +138,7 @@ class ReportFinancial(models.AbstractModel):
                         flag = True
                     if data['enable_filter']:
                         vals['balance_cmp'] = value['comp_bal'] * float(report.sign)
-                        if not self.env.company.currency_id.currency_id.is_zero(vals['balance_cmp']):
+                        if not self.env.company.currency_id.is_zero(vals['balance_cmp']):
                             flag = True
                     if flag:
                         sub_lines.append(vals)
