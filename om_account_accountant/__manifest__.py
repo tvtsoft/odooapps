@@ -39,6 +39,6 @@
         'views/account_journal.xml',
     ],
     'application': True,
-    'images': ['static/description/banner_new.gif'],
+    'images': ['static/description/banner.gif'],
 }
 
